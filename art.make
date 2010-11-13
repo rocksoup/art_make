@@ -60,9 +60,6 @@ projects[better_formats][version] = "1.2"
 projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][version] = "1.6"
 
-projects[adminrole][subdir] = "contrib"
-projects[adminrole][version] = "1.3"
-
 projects[diff][subdir] = "contrib"
 projects[diff][version] = "2.1"
 
@@ -138,4 +135,4 @@ libraries[ckeditor][destination] = "libraries"
 projects[art][type] = "profile"
 projects[art][download][type] = "git"
 projects[art][download][destination] = "profiles"
-projects[art][download][url]= "git://github.com/rocksoup/art_make.git"
+projects[art][download][url]= "git://github.com/rocksoup/art_profile.git"
